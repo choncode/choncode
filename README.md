@@ -1,14 +1,23 @@
-### Welcome! 👋
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-I am a Data Engineer, upskilled with the following:
 
+## Welcome! 👋
+
+### About Me
+- I am a Data Engineer, recent graduate of Northcoders bootcamp
+- Passionate about problem solving and seeing code to fruition
+- Eager to utilise recently acquired skills in a new and engaging professional setting
+
+<br>
+
+### Tech Skills
 
 #### JavaScript
 
 ```javascript
 
 Skills = {API, array methods, asynchronous, classes, conditional logic, constructors, functions, fundamentals, error handling, export/import, iteration, postgresql, recursion, regex, TDD};
-Modules = {express, jest, node-postgress, supertest};
+Modules = {express, jest, node-postgres, supertest};
 
 ```
 
@@ -35,6 +44,27 @@ Skills = {CLI, CloudWatch, Deployment, Lambda, S3, Terraform}
 ### Projects
 
 My latest project `NC-DE-DataBakers` involved `Python`, `YAML`, `PostgreSQL`, `AWS`, `Terraform`. Following ETL, data was extracted from a hosted database with credentials, this was uploaded to a AWS S3 bucket, to then be pulled and transformed into star schema tables and converted to parquet format. Finally the data was uploaded into a final AWS S3 bucket. This entire project was written to be automatically deployed using AWS lambdas and terraform automation with CloudWatch alerts. 
+
+
+
+## <b> Connect with me </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+  
+<li>
+  <a href="mailto:contact.cflee@gmail.com" target="_blank">
+    Email
+  </a>
+</li>
+
+<li>
+  <a href="https://www.linkedin.com/in/chon-lee-a386a7246" target="_blank">
+    LinkedIn
+  </a>
+</li>
+  
 
 
 <!--
