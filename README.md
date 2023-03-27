@@ -43,7 +43,15 @@ Skills = {CLI, CloudWatch, Deployment, Lambda, S3, Terraform}
 
 ### Projects
 
-My latest project `NC-DE-DataBakers` involved `Python`, `YAML`, `PostgreSQL`, `AWS`, `Terraform`. Following ETL, data was extracted from a hosted database with credentials, this was uploaded to a AWS S3 bucket, to then be pulled and transformed into star schema tables and converted to parquet format. Finally the data was uploaded into a final AWS S3 bucket. This entire project was written to be automatically deployed using AWS lambdas and terraform automation with CloudWatch alerts. 
+`NC-DE-DataBakers`
+
+My latest project involved `Python`, `YAML`, `PostgreSQL`, `AWS`, `Terraform`. Following ETL, data was extracted from a hosted database with credentials, this was uploaded to a AWS S3 bucket, to then be pulled and transformed into star schema tables and converted to parquet format. Finally the data was uploaded into a final AWS S3 bucket. This entire project was written to be automatically deployed using AWS lambdas and terraform automation with CloudWatch alerts. 
+
+<br>
+
+`python-sql-pg8000`
+
+This project involved writing SQL code ranging from fundamental querying to advanced SQL such as UNION, INTERSECT, EXCEPT, WINDOWING, Conditional Expressions and COALESCE. PSQL was integrated via `pg8000` module and functions were written with Python using a TDD approach.
 
 
 
