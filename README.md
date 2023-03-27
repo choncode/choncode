@@ -53,6 +53,11 @@ My latest project involved `Python`, `YAML`, `PostgreSQL`, `AWS`, `Terraform`. F
 
 This project involved writing SQL code ranging from fundamental querying to advanced SQL such as UNION, INTERSECT, EXCEPT, WINDOWING, Conditional Expressions and COALESCE. PSQL was integrated via `pg8000` module and functions were written with Python using a TDD approach.
 
+<br>
+
+`SQL-Data-Normalisation`
+
+This project invovles writing SQL code to refactor and normalise the data without mutating original data. Further code is written to transform to star schema.
 
 
 ## <b> Connect with me </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
