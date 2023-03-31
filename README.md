@@ -16,25 +16,31 @@
 
 ```javascript
 
-Skills = {API, array methods, asynchronous, classes, conditional logic, constructors, functions, fundamentals, error handling, export/import, iteration, postgresql, recursion, regex, TDD};
-Modules = {express, jest, node-postgres, supertest};
+console.log(javascriptSkills)
+{API, array methods, asynchronous, classes, conditional logic, constructors, functions, fundamentals, error handling, export/import, iteration, postgresql, recursion, regex, TDD};
+
+console.log(javascriptModules)
+{express, jest, node-postgres, supertest};
 
 ```
 
 #### Python
 
 ```python
+print(python_skills)
+{AWS, comprehension, decorators, exceptions, functions, fundamentals, lambda, mock, OOP, patch, postgresql, pythonic code, SQL, TDD, terraform}
 
-Skills = {AWS, comprehension, decorators, exceptions, functions, fundamentals, lambda, mock, OOP, patch, postgresql, pythonic code, SQL, TDD, terraform}
-Modules = {autopep8, bandit, boto3, flake8, moto, pandas, pg8000, pytest}
+
+print(python_modules)
+{autopep8, bandit, boto3, flake8, moto, pandas, pg8000, pytest}
 
 ```
 
 #### AWS
 
 ```python
-
-Skills = {CLI, CloudWatch, Deployment, Lambda, S3, Terraform}
+aws s3 ls s3://skills
+CLI, CloudWatch, Deployment, Lambda, S3, Terraform
 
 ```
 
