@@ -4,7 +4,7 @@
 ## Welcome! 👋
 
 ### About Me
-- I am a Software Engineer & Mentor at Northcoders
+- I am a Data Engineer & Mentor at Northcoders
 - Passionate about problem solving and seeing code to fruition
 - Eager to utilise recently acquired skills in a new and engaging professional setting
 
