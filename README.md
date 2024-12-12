@@ -28,7 +28,7 @@ console.log(javascriptModules)
 
 ```python
 print(python_skills)
-{AWS, comprehension, decorators, exceptions, functions, fundamentals, lambda, mock, OOP, patch, postgresql, pythonic code, SQL, TDD, terraform}
+{AWS, comprehension, decorators, exceptions, generators, iterators, Mock, OOP, postgresql, pg8000, TDD, terraform}
 
 
 print(python_modules)
@@ -40,7 +40,7 @@ print(python_modules)
 
 ```python
 aws s3 ls s3://skills
-CLI, CloudWatch, Deployment, Lambda, S3, Terraform
+Athena, CLI, CloudWatch, Deployment, EC2, Glue, Lambda, S3, Terraform
 
 ```
 
@@ -63,7 +63,7 @@ This project involved writing SQL code ranging from fundamental querying to adva
 
 `SQL-Data-Normalisation`
 
-This project invovles writing SQL code to refactor and normalise the data without mutating original data. Further code is written to transform to star schema.
+This project involves writing SQL code to refactor and normalise the data without mutating original data. Further code is written to transform to star schema.
 
 
 ## <b> Connect with me </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -78,11 +78,6 @@ This project invovles writing SQL code to refactor and normalise the data withou
   </a>
 </li>
 
-<li>
-  <a href="https://www.linkedin.com/in/chon-lee-a386a7246" target="_blank">
-    LinkedIn
-  </a>
-</li>
   
 
 
